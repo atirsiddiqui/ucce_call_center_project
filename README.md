@@ -56,20 +56,13 @@ This matters because poor service leads to:
 
 ---
 
-## 📂 Repository Structure
-├── data/                # Raw and processed datasets ├── notebooks/           # Jupyter/Colab notebooks for analysis ├── reports/             # Documentation and findings ├── src/                 # Source code for data processing & visualization └── README.md            # Project overview
-
-
----
-
-
----
-
 ## 🎯 Conclusion
 By analyzing call center performance, this project aims to **bridge the gap between customer expectations and operational delivery**.  
 The insights will guide **strategic improvements** in technology, workforce management, and customer service processes.
 
 ---
----
 
 ## 📂 Repository Structure
+├── data/                # Raw and processed datasets ├── notebooks/           # Jupyter/Colab notebooks for analysis ├── reports/             # Documentation and findings ├── src/                 # Source code for data processing & visualization └── README.md            # Project overview
+
+---
